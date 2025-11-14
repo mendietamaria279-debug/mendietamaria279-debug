@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
 **mendietamaria279-debug/mendietamaria279-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Github banner](https://github.com/user-attachments/assets/112b40c0-ee77-4a35-8493-ce4473690590)
 
-![Github banner](https://github.com/user-attachments/assets/2327af4c-3697-4751-a2d2-396da1d98855)
+
